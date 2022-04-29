@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-13T12:31:17.794Z</updated>
+  <updated>2022-04-29T09:30:39.483Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数模校赛后记</title>
+    <link href="http://example.com/2022/04/29/shumo/"/>
+    <id>http://example.com/2022/04/29/shumo/</id>
+    <published>2022-04-29T03:34:51.000Z</published>
+    <updated>2022-04-29T09:30:39.483Z</updated>
+    
+    <content type="html"><![CDATA[<p>数模校赛弄完了，现在还不知道能不能参评，真是烦死了</p><span id="more"></span><h2 id="进度计划"><a href="#进度计划" class="headerlink" title="进度计划"></a>进度计划</h2><p>首先是进度计划安排，虽然之前做了计划，但是后来完全没有按照执行，也没有形成纸面文件，所以也没有人管。</p><pre><code>一个能立刻执行的好计划，远胜于一个在下周才能执行的完美计划。</code></pre><p>即便巴顿将军说过这话，但是起码要有一个计划，而不是大家想到哪干到哪，以后还是要设置严格执行（起码严格要求）的计划。</p><h2 id="统筹规划"><a href="#统筹规划" class="headerlink" title="统筹规划"></a>统筹规划</h2><p>第一次和之前没有打过交道的人合作，说明只靠说好话是不够的。即便此次小组并没有规定各个参与者的先后顺序和实际意义上的组长，但是团队中存在一个领头羊是很必要的。</p><pre><code>一个和尚挑水喝，两个和尚抬水喝，三个和尚没水喝</code></pre><p>正好这次是三个和尚，不过好歹我们还做出了不少东西。</p><h2 id="不能拖DDL"><a href="#不能拖DDL" class="headerlink" title="不能拖DDL"></a>不能拖DDL</h2><p>一些重要的事一定要设置提前量，因为并不是所有人都能在所有时间保证相同的工作量</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>这次搞的还挺有东西的，如果能投个刊就好了。但是投刊的想法想了很久，都没有实际动过手。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;数模校赛弄完了，现在还不知道能不能参评，真是烦死了&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="汪" scheme="http://example.com/tags/%E6%B1%AA/"/>
+    
+  </entry>
   
   <entry>
     <title>博客弄好了！</title>
@@ -27,26 +46,6 @@
     
     
     <summary type="html">&lt;p&gt;终于建立好博客了！&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/04/13/hello-world/"/>
-    <id>http://example.com/2022/04/13/hello-world/</id>
-    <published>2022-04-13T08:49:53.654Z</published>
-    <updated>2022-04-13T08:49:53.654Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
     
     
     
